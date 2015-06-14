@@ -1,3 +1,7 @@
+### Purpose
+Solution to peer assessment 2 for Introduction to R programming (reproduced below). 
+Please see cacheMatrix.R for further documentation. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
